@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Junior Web Developer
 <!--
 **Mahmudmhb/Mahmudmhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -45,3 +46,11 @@ https://www.linkedin.com/in/mahmudul-hasan-6b2bb9226/)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmudmhb&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
+
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Mahmudmhb&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en" alt="Ashraf" /></p>
+ 
+<a href="https://app.daily.dev/mahmudulhasan6"><img src="https://api.daily.dev/devcards/v2/2XZoSmMjTxsM0x5xAyLpi.png?r=vx3" width="356" alt="mahmudul hasan's Dev Card"/></a>
