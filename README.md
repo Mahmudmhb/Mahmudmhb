@@ -8,7 +8,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about React js
-- 📫 How to reach me: ... email: mahmud.mhbb1@gmail.com phone: 01568084061
+- 📫 How to reach me: ... Email: mahmud.mhb1@gmail.com Call: 01568084061
+- 📫 How to reach me: ...Portfolio : https://mahmudul-hasan.vercel.app/
+
 
 - ⚡ Fun fact: I love code and play to cricket 
 
