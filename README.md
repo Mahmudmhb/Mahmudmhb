@@ -1,10 +1,10 @@
 <a target="_blank">
-  <img align="center"  alt="GIF" src="./assets/mern stack developer.png">
+  <img align="center"  alt="GIF" src="./assets/full-stack-development.gif">
 </a>
 
 ### Hi there 👋
 
-MERN stack Developer
+As a MERN stack Developer, my career objective is to leverage my skills in JavaScript, React JS, Node JS, Express JS and MongoDB to create innovative and scalable web applications. I aim to collaborate with talented teams, continuously learn and grow, and contribute to the development of cutting-edge software solutions
 
 <!--
 **Mahmudmhb/Mahmudmhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning Next Js
 - 💬 Ask me about React js
 - 📫 How to reach me: ... Email: mahmud.mhb1@gmail.com Call: 01568084061
 - 📫 How to reach me: ...Portfolio : https://mahmudul-hasan.vercel.app/
@@ -55,8 +55,10 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmudmhb&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
+# My Github stats
 
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Mahmudmhb&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en" alt="Ashraf" /></p>
- 
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Mahmudmhb&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en" alt="Mahmud"  width = 400px/></p>
+
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmudmhb&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Mahmud" /></p>
+
 <a href="https://app.daily.dev/mahmudulhasan6"><img src="https://api.daily.dev/devcards/v2/2XZoSmMjTxsM0x5xAyLpi.png?r=vx3" width="356" alt="mahmudul hasan's Dev Card"/></a>
