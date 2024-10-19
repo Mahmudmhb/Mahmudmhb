@@ -57,8 +57,12 @@ Here are some ideas to get you started:
 
 # My Github stats
 
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Mahmudmhb&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en" alt="Mahmud"  width = 400px/></p>
+![Mahmudul Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmudmhb&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en)
 
-<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmudmhb&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Mahmud" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Mahmudmhb&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact)
+
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Mahmudmhb&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en" alt="Mahmud"  /></p>
+
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmudmhb&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" width = 400px alt="Mahmud" /></p>
 
 <a href="https://app.daily.dev/mahmudulhasan6"><img src="https://api.daily.dev/devcards/v2/2XZoSmMjTxsM0x5xAyLpi.png?r=vx3" width="356" alt="mahmudul hasan's Dev Card"/></a>
