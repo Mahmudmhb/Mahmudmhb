@@ -1,12 +1,17 @@
+<a target="_blank">
+  <img align="center"  alt="GIF" src="./assets/mern stack developer.png">
+</a>
+
 ### Hi there 👋
 
 MERN stack Developer
+
 <!--
 **Mahmudmhb/Mahmudmhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🌱 I’m currently learning MERN Stack
@@ -14,13 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Email: mahmud.mhb1@gmail.com Call: 01568084061
 - 📫 How to reach me: ...Portfolio : https://mahmudul-hasan.vercel.app/
 
-
-- ⚡ Fun fact: I love code and play to cricket 
+- ⚡ Fun fact: I love code and play to cricket
 
 ## Connect with Me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
-https://www.linkedin.com/in/mahmudul-hasan-6b2bb9226/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudul-hasan-6b2bb9226/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mahmud.mhb1@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
@@ -51,8 +54,6 @@ https://www.linkedin.com/in/mahmudul-hasan-6b2bb9226/)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmudmhb&show_icons=true&theme=tokyonight&title_color=3cb480&locale=en&layout=compact" alt="Ashraf" /></p>
 
